@@ -28,8 +28,8 @@ She sends  A = g^a mod p  to Poonam.
 
 Poonam also chooses another secret number "b" and b = 15
 She sends  B = g^b mod p this to Neelam.
-          =>> A = 5^15 mod 23
-          =>> A = 19
+          =>> B = 5^15 mod 23
+          =>> B = 19
 
 But Rashmi has access to these two, A and B  but not "a" and "b".
 
