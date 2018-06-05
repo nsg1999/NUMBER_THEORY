@@ -11,7 +11,7 @@ which is susceptible to public inteference.
 Another person, Rashmi, an evesdropper, is trying to break into the communication and get the data.
 
 However, Neelam has an idea with which she and Poonam can securely exchange the data without Rashmi's knowledge.
-She uses the concept of DISCRETE LOGARITHM along with DIFFIE-HELLMAN KEY EXCHANGE mechanism, which is explained below:
+She uses the DIFFIE-HELLMAN KEY EXCHANGE mechanism, which is explained below:
 
 So, there is these two numbers, p and g :
           p = 23
