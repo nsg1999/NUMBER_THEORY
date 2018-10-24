@@ -36,7 +36,7 @@ But Rashmi has access to these two, A and B  but not "a" and "b".
 Now, Poonam does the following maths:
           She received A = 8 and exponentiated it with her secret number, i.e. 
                     8^15 and takes the mod with p;
-                            8^15 mod 23 = 2.
+                            8^15 mod 23 = 2
                             
 Now, Neelam also performs the same:
           She received B = 19 and exponentiated it with her secret number, i.e. 
